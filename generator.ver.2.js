@@ -1,4 +1,4 @@
-$('#super-generator').hide(0).delay(1000).fadeIn();
+    $('#super-generator').hide(0).delay(1000).fadeIn();
 
     $('#verify').click(function() {
         $('#steps').hide();
